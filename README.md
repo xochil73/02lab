@@ -10,7 +10,7 @@ Marketplace
 Explore
  @etrainor Sign out
 0
-0 14 codefellows-seattle-javascript-401d28/01-node-ecosystem
+0 14 codefellows-seattle-javascript-401d28/02-Classes, Inheritence, Functional Programming
  Code  Issues 0  Pull requests 7  Projects 0  Wiki  Insights
 Updated README template
 
