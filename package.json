@@ -1,0 +1,23 @@
+{
+  "name": "classes-inheritence-functional-program",
+  "version": "1.0.0",
+  "description": "lab02",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^24.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"jest --coverage\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xochil73/02lab.git"
+  },
+  "author": "Xochil Squaglia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xochil73/02lab/issues"
+  },
+  "homepage": "https://github.com/xochil73/02lab#readme"
+}
