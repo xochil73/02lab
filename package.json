@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "lab02",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^24.1.0"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "\"jest --coverage\""
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",

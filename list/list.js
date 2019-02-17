@@ -7,6 +7,7 @@ class List {
         this.data = {};
     }
 
+
     /**
      * Add item to the end of the list
      * @param item
@@ -27,6 +28,7 @@ class List {
         this.length--;
         return returnValue;
     }
+
 
 }
 
