@@ -8,7 +8,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/xochil73/02lab)
-* [travis](https://travis-ci.com/)
+* [travis]([![Build Status](https://travis-ci.com/xochil73/02lab.svg?branch=master)](https://travis-ci.com/xochil73/02lab))
 
 ### Modules
 #### `index.js`
