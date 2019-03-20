@@ -2,9 +2,9 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Classes, Inheritance, Functional Programming
 
-### Author: Student/Group Name
+### Author: Xochil Squaglia
 
 ### Links and Resources
 * [repo](https://github.com/xochil73/02lab)
@@ -15,42 +15,32 @@
      `vehicle-class.js`
      `vehicle-constructor.js`
      `vehicle-factory.js`
+     `flying-vehicle-class.js`
+     `seacreature-class.js`
+     
 ##### Exported Values and Methods
-      `Car -> 
-###### `foo(thing) -> string`
+      `Car`-> 
+      `Motorcycle`
+      `Airplane`
+      `Helicopter`
+      `Lobster`
+      `Fish`
+
 
 ### Setup
 
 #### Running the app
-* `npm start`
+* `index.js`
 
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* nom run test
 
-#### UML
+
+
+
 
    
  
  
  
-Leave a comment
-Attach files by dragging & dropping, selecting them, or pasting from the clipboard.
-
- Styling with Markdown is supported
-  You’re not receiving notifications from this thread.
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
