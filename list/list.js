@@ -22,12 +22,12 @@ class List {
      * // Remove an item from the end of the list and return it's value
      * @returns {*}
      */
-    pop() {
-        let returnValue = this.data[this.length];
-        delete this.data[this.length];
-        this.length--;
-        return returnValue;
-    }
+    // pop() {
+    //     let returnValue = this.data[this.length];
+    //     delete this.data[this.length];
+    //     this.length--;
+    //     return returnValue;
+    // }
 
 
 }

@@ -2,9 +2,9 @@
 
 
 class SeaCreature {
-    constructor(tail, color) {
+    constructor(name, tail) {
+        this.name=name;
         this.tail=tail;
-        this.color=color;
     }
     swim() {
         return "Moving Forward";
@@ -13,17 +13,17 @@ class SeaCreature {
         return "yummy";
     }
 }
-class Octopus extends SeaCreature{
-    constructor(){
-        super (0, 'red');
+class Fish extends SeaCreature{
+    constructor(name){
+        super (name, 2);
     }
 
 
 }
 
-class SeaHorse extends SeaCreature {
-    constructor(){
-        super(1, 'orange');
+class Lobster extends SeaCreature {
+    constructor(name){
+        super(name, 1);
     }
     poop() {
         return "Stinky";
@@ -31,4 +31,4 @@ class SeaHorse extends SeaCreature {
 
 }
 
-module.exports = {Octopus, SeaHorse};
+module.exports = {Fish, Lobster};
