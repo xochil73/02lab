@@ -3,13 +3,19 @@
   "version": "1.0.0",
   "description": "lab02",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {"eslint": "^5.5.0",
+    "eslint-plugin-dependencies": "^2.4.0",
+    "eslint-plugin-jest": "^21.22.0"
+  },
   "devDependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^22.4.1",
     "jest": "^24.1.0"
   },
   "scripts": {
     "test": "jest --coverage",
-    "lint": ".eslintrc"
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",

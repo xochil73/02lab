@@ -2,7 +2,7 @@
 
 const List = require('./list.js');
 
-let stuff = new List();
+const stuff = new List();
 stuff.push('a');
 stuff.push('b');
-let last = stuff.pop();
+const last = stuff.pop();
