@@ -26,13 +26,14 @@ function Car(name) {
 
 function Motorcycle(name) {
   const newMotorcycle = Object.assign(
-    // {},
+    // {}
     { wheelie },
     new Vehicle(name, 2),
   );
   function wheelie() {
     return 'Wheee!';
   }
+
   return Object.freeze(newMotorcycle);
 }
 

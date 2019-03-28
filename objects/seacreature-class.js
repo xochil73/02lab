@@ -16,13 +16,13 @@ class SeaCreature {
   }
 }
 class Fish extends SeaCreature {
-  constructor(name) {
+  constructor() {
     super(name, 2);
   }
 }
 
 class Lobster extends SeaCreature {
-  constructor(name) {
+  constructor() {
     super(name, 1);
   }
 
